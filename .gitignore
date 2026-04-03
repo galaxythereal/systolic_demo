@@ -1,0 +1,50 @@
+```
+# Build artifacts
+build/
+dist/
+
+# TCL/Tk build files
+*.tcl~
+
+# Xilinx/EDA tools
+*.bit
+*.bin
+*.dcp
+*.runs/
+*.srcs/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.cache/
+*.xpr
+*.log
+*.jou
+*.str
+*.csv
+*.xml
+*.wdb
+*.wcfg
+*.wdbx
+*.mwsl
+*.mmcm_pll_xlnx_*
+*ila_data.txt
+*trigger_ram.txt
+
+# Simulation files
+*.vcd
+*.fst
+*.vpd
+*.shm
+*.fsdb
+*.trn
+*.dsn
+*.vstf
+*.tcl~
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+```
